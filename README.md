@@ -16,10 +16,11 @@ With 4 events and some clever settings, the game can set the thumbstick controll
 <div align="center">
   <img src="controlsDemo.gif">
 </div>
+<p>
   <a href="https://hielo777.github.io/tstpg/">
-    <sub>Click here to try the demo >></sub>
+    Click here to try the demo >>
   </a>
-
+</p>
 A million thanks to the [Construct community](https://www.construct.net/en/forum) and to the kind people of [Scirra](https://www.construct.net/en).
 
 ***
